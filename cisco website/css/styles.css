@@ -1,0 +1,190 @@
+.navbar{
+    
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+ justify-content: right;
+}
+#navbarNav{
+    background-color: rgb(244, 244, 244);
+    justify-content: right;
+
+}
+.logo-cisco{
+    height: 200px;
+}
+    .banner{
+        background-image: url(../images/homepage-hero-desktop-3200x800-3.webp);
+        max-width: 100%;
+    background-size:cover;
+    height: 100vh;
+    }
+    
+    .hero{
+        margin-left: 8rem;
+        padding-top: 10rem;
+    }
+    
+    
+    
+        .hero h1{
+            max-width: 40rem;
+            font-size: 4rem;
+            color: #fff;
+        }
+        
+        .hero p {
+            font-size: 1.1rem;
+            color: #fff;
+            max-width: 38rem;
+            margin: 1.1rem 0 3rem 0;
+            line-height: 1.8rem;
+        }
+        
+        .hero button {
+            border-radius: 25px;
+            border-style: none;
+            padding: 1rem;
+        }
+        .iconlogo{
+            display: flex;
+            justify-content: center;        
+        }
+        li{
+    list-style-type: none;
+    margin: 30px;
+    
+        }
+    
+       .flex a{
+        display: flex;
+            flex-flow: column wrap;
+        }
+
+section{
+    margin-bottom: 30px;
+}
+.cards{
+    display: flex;
+    justify-content: space-evenly;
+}
+/* section3 */
+
+.section-container .section-img{
+    width: 100%;
+    height: 50%;
+    float: left;
+    object-fit: cover;
+   }
+
+
+   .section3-container{
+    height: 600px;
+    width: 100%;
+    padding: 20px;
+    margin-left: 0px;
+    margin-right: px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: center;
+   }
+
+   .section3-container img{
+    width: 50%;
+   }
+
+
+   .section3-container .section3-text{
+    max-width: 50%;
+    height: 70vh;
+    padding-left: 100px;
+    padding-top: 50px;
+    
+}
+
+.section3-container .section3-text button{
+    padding: 7px 15px;
+    border-radius: 50px;
+    border-color: blueviolet;
+ }
+
+ .section3-container .section3-text button a{
+    text-decoration: none;
+    color: blueviolet;
+    margin-top: 30px;
+    font-size: 15px;
+    font-weight: bold;
+ }
+
+ .section3-container .section3-text a{
+   text-decoration: none;
+   top: 20px;
+ }
+
+
+ .section-container .section-img{
+    width: 100%;
+    height: 50%;
+    float: left;
+    object-fit: cover;
+   }
+
+
+   .section4-container{
+    height: 600px;
+    width: 100%;
+    padding: 20px;
+    margin-left: 0px;
+    margin-right: px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: center;
+   }
+
+   .section4-container img{
+    width: 50%;
+    padding-left: 100px;
+   }
+
+
+   .section4-container .section4-text{
+    max-width: 50%;
+    height: 70vh;
+    padding-left: 30px;
+    padding-top: 70px;
+    
+}
+
+.section4-container .section4-text button{
+    padding: 7px 15px;
+    border-radius: 50px;
+    border-color: blueviolet;
+ }
+
+ .section4-container .section4-text button a{
+    text-decoration: none;
+    color: blueviolet;
+    margin-top: 30px;
+    font-size: 15px;
+    font-weight: bold;
+ }
+
+ .section4-container .section4-text a{
+   text-decoration: none;
+ }
+
+ .section4-container img{
+    width: 50%;
+    padding-left: 100px;
+   }
+video{
+    display: flex;
+    justify-content: center;
+}
+footer{
+    background-color: rgb(244, 244, 244) ;
+}
+.footer-li-items{
+    display: flex;
+}
